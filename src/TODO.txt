@@ -1,0 +1,3 @@
+12 Apr 2023:
+[x] set up a minimal web xr app
+[ ]  from zig, control color of screen based on controller position
